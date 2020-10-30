@@ -2,10 +2,10 @@ package enfonsarlaflota;
 
 public class Aigua extends Fitxa{
     
-    private String valor;
+    private String valoor;
     
-    public Aigua(String valooor, int longitud, int fitxes) {
-        super(valor, longitud, fitxes);
+    public Aigua(String valoor, int longitud, int fitxes) {
+        super(valoor, longitud, fitxes);
     }
 
 }
